@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+}
+
+.px-6 {
+  padding: 0 10rem;
+}
+
+.gray-bg {
+  background-color: #11603b;
+}
